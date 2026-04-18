@@ -1,12 +1,59 @@
-<h1 align="center">Hi 👋, I'm Beste</h1>
-<h3 align="center">Software Quality Assurance Engineer</h3>
+<h1 align="center">Hi 👋, I'm Beste Morgül</h1>
+<h3 align="center">Software Quality Assurance Engineer | Manual & Automation Testing</h3>
 
-- 📫 How to reach me **beste.morgul@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bestemorgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestemorgul" height="30" width="40" /></a>
-</p>
+## 👩‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- 🔍 QA Engineer with 2 years of experience in manual and API testing  
+- 🤖 Currently focusing on **test automation with Python & Selenium**  
+- 🧪 Interested in **AI testing, API testing, and UI automation**  
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 QA UI Automation Project
+
+- Built with **Python, Selenium, and Pytest**
+- Implemented **Page Object Model (POM)**
+- Automated key scenarios:
+  - ✅ Login (positive & negative)
+  - 🛒 Add to cart
+  - 🚪 Logout
+- Focused on **maintainable and readable test structure**
+
+👉 You can check the project in my repositories.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python
+- 🌐 Selenium
+- 🧪 Pytest
+- 🔗 API Testing (Postman)
+- 🐬 SQL (MySQL)
+- 🔧 Git & GitHub
+- ⚙️ CI/CD (Jenkins basics)
+- ☁️ Basic AWS knowledge
+
+---
+
+## 📫 Contact Me
+
+- 📧 **beste.morgul@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/bestemorgul)
+
+---
+
+## ⚡ What I Focus On
+
+- Writing clean and maintainable test cases  
+- Automating real user scenarios  
+- Finding bugs efficiently and clearly documenting them  
+- Improving test coverage  
+
+---
+
+<h3 align="center">✨ Always learning, always testing ✨</h3>
