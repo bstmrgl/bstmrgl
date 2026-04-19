@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔍 QA Engineer with 2 years of experience in manual and API testing  
+- 🔍 QA Engineer with 2 years of experience in manual, automation, database and API testing  
 - 🤖 Currently focusing on **test automation with Python & Selenium**  
 - 🧪 Interested in **AI testing, API testing, and UI automation**  
 
